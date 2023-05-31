@@ -17,4 +17,12 @@ The second assignment was to always start from the second assignment of RT1 and 
 - the laser scanner which plots the distance to the closest obstacle
 - A graph for the number of achieved/not achieved goals
 
+Research Track 2: Third Assignment 
+------------------------------------
 
+Write a report composed of:
+- Hypotheses made (null hypothesis and alternative hypothesis)
+- Description and motivation of the experimental setup (types of experiments, number of repetitions)
+- Results
+- Discussion of the results with statistical analysis
+- Conclusion (is the hypothesis proven?) 
