@@ -1,4 +1,2 @@
-# Research_Track_2
-
-Python Robotics Simulator
+#Research_Track_2
 ================================
