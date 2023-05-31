@@ -11,4 +11,10 @@ The project documentation is at the following link: [Documentazione](https://dav
 Research Track 2: Second Assignment 
 ------------------------------------
 
+The second assignment was to always start from the second assignment of RT1 and replace the user interface of node A with a jupyter notebook. In the notebook that I implemented there are:
+- some buttons for managing the movement of the robot in the environment
+- a graph with the position of the robot and the positions of the targets in the environment
+- the laser scanner which plots the distance to the closest obstacle
+- A graph for the number of achieved/not achieved goals
+
 
